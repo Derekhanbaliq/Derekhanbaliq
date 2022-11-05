@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 <!--🛠️ Some tools that I use:-->
 
-📌 Please check out my [website](https://derekhanbaliq.weebly.com/study.html) for more info.
+📌 Please check out my personal website [Derekhanbaliq](https://derekhanbaliq.weebly.com/study.html) for more info!
 
