@@ -1,4 +1,5 @@
-### Hi, this is Derek! 👋
+Hi, this is Derek! 👋
+---
 
 <!--
 **derekhanbaliq/derekhanbaliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+✨ I'm a dual master student majoring in Electrical Engineering & ME - Mechatronics and Robotic Systems at University of Pennsylvania. 
+❤️ I'm interested in developing both hardware and software for autonomous systems & robots.
+🔭 As a member of PRECISE - mLab, I'm currently working on go-kart mechatronics modification & imitation learning on F1TENTH platform. 
+🤔 I’m looking for full-time opportunities in the field of motor vehicle manufacturing & industrial automation.
+<!--🛠️ Some tools that I use:-->
+
+📝 Please check out my [website](https://derekhanbaliq.weebly.com/study.html) for more info.
+
