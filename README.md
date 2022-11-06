@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 📌 Please check out my personal website [DereKhanbaliq](https://derekhanbaliq.weebly.com/study.html) for more info!
 
-😇 Thanks for [your visit](https://clustrmaps.com/site/1br75)! 
+😇 Thanks for [your visit](https://clustrmaps.com/site/1br7d)! 
