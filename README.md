@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🥇 I'm a dual master student majoring in ⚡ Electrical Engineering & ⚙️ ME - Mechatronics and Robotic Systems at University of Pennsylvania. 
 
-- ❤️ I'm interested in developing 💻 **IoT systems** & 🚀 **planning - control methods** for 🚗 **autonomous systems** & 🕹️ **robots**.
+- ❤️ I'm interested in developing 🚀 **planning - control methods** & 💻 **IoT systems** for 🚗 **autonomous systems** & 🕹️ **robots**.
 - 🎯 As a member of PRECISE - xLab, I'm currently working on 🏎️ EV4AV go-kart mechatronics modification & 🎮 imitation learning research on F1TENTH platform. 
 - 🤔 I’m looking for 2024 full-time opportunities 🔮 in the field of motor vehicle manufacturing & industrial automation.
 
