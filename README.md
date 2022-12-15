@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 😇 Thanks for your visit!
 
-<div align=center>[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&theme=merko)](https://github.com/derekhanbaliq/github-readme-stats)</div>
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000)](https://github.com/derekhanbaliq/github-readme-stats)
