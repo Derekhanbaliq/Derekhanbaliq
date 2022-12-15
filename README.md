@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 📌 Please check out my personal website [DereKhanbaliq](https://derekhanbaliq.weebly.com/) for more info!
 
 😇 Thanks for your visit!
+
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
