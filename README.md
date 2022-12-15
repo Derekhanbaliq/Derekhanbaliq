@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats</summary>
   
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000" />
+  
+  <img align="center" alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact&exclude_repo=Quadrotor-Fatih" />
   
 </details>
 
