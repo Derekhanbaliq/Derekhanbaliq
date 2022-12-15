@@ -31,10 +31,14 @@ Here are some ideas to get you started:
 <details>
   
   <summary>:zap: GitHub Stats</summary>
+  <p align="center">
+    <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000" />
+    <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact" />
+  </p>
   
-  <img align="center" alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000" />
+<!--   <img align="center" alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000" /> -->
   
-  <img align="center" alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact" />
+<!--   <img align="center" alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact" /> -->
   
 </details>
 
