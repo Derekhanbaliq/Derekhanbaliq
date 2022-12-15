@@ -28,7 +28,15 @@ Here are some ideas to get you started:
 
 😇 Thanks for your visit!
 
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: Github Stats</summary>
+  
+  <img align="left" alt="Derek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000">
+  
+  
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact&exclude_repo=Quadrotor-Fatih
+<!-- [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact&exclude_repo=Quadrotor-Fatih -->
 )](https://github.com/anuraghazra/github-readme-stats)
