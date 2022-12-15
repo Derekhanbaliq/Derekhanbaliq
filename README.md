@@ -32,13 +32,11 @@ Here are some ideas to get you started:
   
   <summary>:zap: GitHub Stats</summary>
   <p align="center">
-    <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000" />
-    <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact" />
+    <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&bg_color=00000000&card_width=500" />
   </p>
-  
-<!--   <img align="center" alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&&bg_color=00000000" /> -->
-  
-<!--   <img align="center" alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact" /> -->
-  
+  <p align="center">
+    <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact&card_width=450&exclude_repo=Quadrotor-Fatih" />
+  </p>
+
 </details>
 
