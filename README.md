@@ -32,10 +32,14 @@ Here are some ideas to get you started:
   
   <summary>🎉 GitHub Stats</summary>
   <p align="center">
-    <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&bg_color=00000000&card_width=500" />
+    <a href="https://github.com/derekhanbaliq/github-readme-stats" target="_blank">
+      <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&bg_color=00000000&card_width=500" />
+    </a>  
   </p>
   <p align="center">
-    <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact&card_width=450&exclude_repo=Quadrotor-Fatih" />
+    <a href="https://github.com/derekhanbaliq/github-readme-stats" target="_blank">
+      <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact&card_width=450&exclude_repo=Quadrotor-Fatih" />
+    </a>   
   </p>
 
 </details>
