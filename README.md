@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <details>
   
-  <summary>:zap: GitHub Stats</summary>
+  <summary>🎉 GitHub Stats</summary>
   <p align="center">
     <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=derekhanbaliq&show_icons=true&count_private=true&bg_color=00000000&card_width=500" />
   </p>
@@ -39,4 +39,3 @@ Here are some ideas to get you started:
   </p>
 
 </details>
-
