@@ -38,7 +38,8 @@ Here are some ideas to get you started:
   </p>
   <p align="center">
     <a href="https://github.com/derekhanbaliq/github-readme-stats" target="_blank">
-      <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact&card_width=450&exclude_repo=Quadrotor-Fatih" />
+      <!--only self public repo!-->
+      <img alt="Derek's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekhanbaliq&layout=compact&card_width=450&exclude_repo=Quadrotor-Fatih,LFI-Novabot-Simulation,Chinese-Chess-Robot-V0.4.2" />
     </a>   
   </p>
 
