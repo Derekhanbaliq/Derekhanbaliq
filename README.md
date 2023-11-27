@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🥇 I'm a dual master student majoring in ⚡ Electrical Engineering & ⚙️ ME - Mechatronics and Robotic Systems at University of Pennsylvania. 
+🥇 I'm a dual master's student majoring in ⚡ Electrical Engineering & ⚙️ ME - Mechatronics and Robotic Systems at University of Pennsylvania. 
 
-- ❤️ I'm interested in developing 🚀 **planning - control methods** for 🚗 **autonomous systems** & 🕹️ **robotic systems**.
-- 🎯 As a member of PRECISE - xLab, I'm currently working on 🏎️ EV4AV go-kart mechatronics modification & 🎮 imitation learning research on F1TENTH platform. 
-- 🤔 I’m looking for 2024 full-time opportunities 🔮 in the field of motor vehicle manufacturing & industrial automation.
+- ❤️ I'm interested in developing 🚀 **planning - control methods** & 🚗 **mechatronic systems** for **autonomous vehicles** & **robotic systems**
+- 🎯 As a member of PRECISE - xLab, I worked on the EV4AV go-kart full-stack advancement 🏎️ & the software deployment of the F1TENTH platform 🎮
+- 🔭 I’m looking forward to starting my career 🌉 in the field of motor vehicle manufacturing & industrial automation
 
 <!--🛠️ Some tools that I use:-->
 
