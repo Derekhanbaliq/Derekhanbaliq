@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🥇 I'm a dual master's student majoring in ⚡ Electrical Engineering & ⚙️ ME - Mechatronics and Robotic Systems at University of Pennsylvania. 
+🛻 I'm an autonomous systems engineer at [PlusAI](https://plus.ai/). 
+<!--I graduated as a dual master's student majoring in ⚡ Electrical Engineering & ⚙️ Mechanical Engineering at the University of Pennsylvania. -->
 
-- ❤️ I'm interested in developing 🚀 **planning - control methods** & 🚗 **mechatronic systems** for **autonomous vehicles** & **robotic systems**
-- 🎯 As a member of PRECISE - xLab, I worked on the EV4AV go-kart full-stack advancement 🏎️ & the software deployment of the F1TENTH platform 🎮
-- 🔭 I’m looking forward to starting my career 🌉 in the field of motor vehicle manufacturing & industrial automation
+- 🎯 I developed the F1TENTH software stack 🎮 & the fullstack AV4EV go-kart 🏎️ when I was studying at Penn
+- 🌉 I'm currently working on 🚀 autonomous feature design & 🛑 runtime safety development & 📚 system architecture modeling
+- 🔭 I'm looking forward to studying more in the field of autonomoous systems!
 
 <!--🛠️ Some tools that I use:-->
 
-📌 Please check out my personal website [DereKhanbaliq](https://derekhanbaliq.weebly.com/) for more info!
+📌 Check out my website [DereKhanbaliq](https://derekhanbaliq.weebly.com/) & my [LinkedIn](https://www.linkedin.com/in/derekzhou-1105/) for more info!
 
 😇 Thanks for your visit!
 
