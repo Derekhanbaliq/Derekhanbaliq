@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🎯 I developed the F1TENTH software stack 🎮 & the fullstack AV4EV go-kart 🏎️ when I was studying at Penn
 - 🌉 I'm currently working on 🚀 autonomous feature design & 🛑 runtime safety development & 📚 system architecture modeling
-- 🔭 I'm looking forward to studying more in the field of autonomoous systems!
+- 🔭 I'm looking forward to studying more in the field of autonomous systems!
 
 <!--🛠️ Some tools that I use:-->
 
