@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--I graduated as a dual master's student majoring in ⚡ Electrical Engineering & ⚙️ Mechanical Engineering at the University of Pennsylvania. -->
 
 - 🎯 I developed the F1TENTH software stack 🎮 & the fullstack AV4EV go-kart 🏎️ when I was studying at Penn
-- 🌉 I'm currently working on 🚀 autonomous feature design & 🛑 runtime safety development & 📚 system architecture modeling
+- 🌉 I'm currently working on 🚀 autonomous feature design & 📚 system architecture modeling & 🛑 runtime safety development & 🧰 vehicle system integration
 - 🔭 I'm looking forward to studying more in the field of autonomous systems!
 
 <!--🛠️ Some tools that I use:-->
