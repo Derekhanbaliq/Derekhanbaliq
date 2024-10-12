@@ -1,4 +1,4 @@
-Hi, this is Derek! 👋
+Hi, this is Derek! 😅
 ---
 
 <!--
